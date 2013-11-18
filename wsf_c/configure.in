@@ -42,14 +42,14 @@ ENABLE_NTLM_WITH_LIBNTLM = 1
 #############################################################################
 #
 # libxml2 binary location ( axis2c is built with libxml2 )
-LIBXML2_BIN_DIR = E:\libxml2-2.6.30.win32
+LIBXML2_BIN_DIR = C:\libxml2
 #
 # iconv binary location
-ICONV_BIN_DIR = E:\iconv-1.9.2.win32
+ICONV_BIN_DIR = C:\libiconv
 #
 # zlib binary location
-ZLIB_BIN_DIR= E:\zlib-1.2.3.win32
-#
+ZLIB_BIN_DIR= C:\zlib
+##
 #############################################################################
 ### Dependant Binary Locations (Optional) ###
 #############################################################################
