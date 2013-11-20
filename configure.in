@@ -93,7 +93,7 @@ EMBED_MANIFEST = 1
 #
 # debug symbols
 # To build with debug symbols use DEBUG = 1
-DEBUG = 0
+DEBUG = 1
 #
 #############################################################################
 ### Apache Rampart/C Build Configuration Parameters
